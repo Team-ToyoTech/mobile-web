@@ -47,8 +47,8 @@ header #welcomeMessage {
 }
 
 header button {
-    width: 60vw;
-    max-width: 200px;
+    width: 30vw;
+    max-width: 100px;
     margin: 8px 0 0 0;
     font-size: 14px;
     padding: 8px 0;
@@ -77,8 +77,8 @@ input[type="text"] {
 
 button {
     height: 38px;
-    width: 60vw;
-    max-width: 200px;
+    width: 30vw;
+    max-width: 100px;
     margin: 0 0 8px 0;
     background-color: #9b9bff;
     border: none;
@@ -91,8 +91,8 @@ button {
 
 .add-todo-btn,
 .add-account-btn {
-    width: 60vw;
-    max-width: 200px;
+    width: 30vw;
+    max-width: 100px;
     margin-left: 0;
 }
 
