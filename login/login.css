@@ -88,3 +88,34 @@ footer {
     bottom: 0;
     left: 0;
 }
+
+@media (max-width: 600px) {
+    header img {
+        height: 90px;
+    }
+    header h1 {
+        font-size: 36px;
+    }
+    main {
+        margin-top: 48px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    input[type="email"],
+    input[type="password"] {
+        font-size: 22px;
+        height: 48px;
+        padding: 14px;
+        width: 96vw;
+        max-width: 480px;
+        border-radius: 8px;
+    }
+    button {
+        font-size: 22px;
+        height: 54px;
+        width: 96vw;
+        max-width: 480px;
+        border-radius: 8px;
+    }
+}
