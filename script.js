@@ -1,4 +1,3 @@
-// 모바일 환경이 아니면 https://www.toyotech.dev/로 리다이렉트
 if (
     !/Mobi|Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent
