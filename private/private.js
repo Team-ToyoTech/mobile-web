@@ -3,7 +3,7 @@ if (
         navigator.userAgent
     )
 ) {
-    window.location.href = "https://www.toyotech.dev/";
+    window.location.href = "https://www.toyotech.dev/private/";
 }
 
 import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-app.js";
